@@ -24,7 +24,11 @@
     width: 150px;
     position: absolute;
     bottom: 0;
-    animation: jump-mario 500ms infinite ease-out;
+    
+}
+
+.jump{
+    animation: jump-mario 500ms  ease-out;
 }
 
 
@@ -49,9 +53,14 @@
 
 
     50% {
+        bottom:182px;
+    }
+
+    60% {
         bottom:180px;
     }
-    60% {
+
+    70% {
         bottom:180px;
     }
 
