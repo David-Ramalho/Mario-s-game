@@ -16,15 +16,14 @@
 .pipe{
     position: absolute;
     bottom: 0;
-    width: 80px;    
-    animation: pipes-animation 2s infinite linear;
+    width: 80px;     
+    animation: pipes-animation 2s infinite linear; 
 }
 
 .mario{
     width: 150px;
     position: absolute;
-    bottom: 0;
-    
+    bottom: 0;      
 }
 
 .jump{
