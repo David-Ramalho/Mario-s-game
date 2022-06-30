@@ -7,17 +7,19 @@
 .game-board {
     width: 80%;
     height: 500px;
-    border: 1px solid #333;
+    border: 5px solid #333;
     margin: 0 auto;
     position: relative;
     overflow: hidden;
+    
 }
 
 .pipe{
     position: absolute;
     bottom: 0;
     width: 80px;     
-    animation: pipes-animation 2s infinite linear; 
+    animation: pipes-animation 1.5s infinite linear; 
+    
 }
 
 .mario{
