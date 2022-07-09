@@ -36,8 +36,8 @@
 
 .clouds{
     position: absolute;
-   width: 450px; 
-   animation: clouds-animation 20s infinite ease-out;
+    width: 450px; 
+    animation: clouds-animation 20s infinite ease-out;
 }
 
 /* O tamanho do right é o valor negativo do tamanho do objeto. Assim a entra na tela aos poucos */
